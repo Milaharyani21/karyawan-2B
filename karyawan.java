@@ -18,6 +18,10 @@ public class karyawan {
 	}
 
 	public void gajikaryawan(int gaji){
-		System.out.println("Gaji=" +gaji);		
+		System.out.println("Gaji=" +gaji);
+		}		
+		public void setGaji(int uang, String pesan){
+		System.out.println(uang);
+		System.out.println(pesan);
 	}
 }
